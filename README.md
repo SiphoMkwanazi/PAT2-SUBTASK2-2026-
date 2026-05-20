@@ -1,5 +1,4 @@
 # PAT2-SUBTASK2-2026
-Translation of a short message into morse code
 #include <iostream>
 #include <string>
 #include <cctype>
