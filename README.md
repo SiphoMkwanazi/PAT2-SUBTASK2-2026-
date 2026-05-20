@@ -1,4 +1,4 @@
-# PAT2-SUBTASK2-2026
+endlPAT2-SUBTASK2-2026
 #include <iostream>
 #include <string>
 #include <cctype>
@@ -65,7 +65,7 @@ string message;
 // Program heading
 cout << "======================================" << endl;
 cout << " MORSE CODE TRANSLATOR " << endl;
-cout << "======================================" << endl;
+cout << "======================================" << endl
 
 // Background information
 cout << "\nAbout Morse Code:" << endl;
